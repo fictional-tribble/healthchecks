@@ -1,7 +1,7 @@
 # healthchecks
 
 [![Build Status](https://travis-ci.org/healthchecks/healthchecks.svg?branch=master)](https://travis-ci.org/healthchecks/healthchecks)
-[![Coverage Status](https://coveralls.io/repos/healthchecks/healthchecks/badge.svg?branch=master&service=github)](https://coveralls.io/github/healthchecks/healthchecks?branch=master)
+[![Coverage Status](https://coveralls.io/repos/healthchecks/healthchecks/badge.svg?branch=master&service=github)](https://coveralls.io/github/healthchecks/healthchecks?branch=master) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/healthchecks.svg)](https://www.guardrails.io)
 
 
 ![Screenshot of Welcome page](/static/img/welcome.png?raw=true "Welcome Page")
